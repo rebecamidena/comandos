@@ -1,0 +1,17 @@
+.titulo-primeiro-paragrafo {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    color: blue;
+}
+
+.titulo-secundario {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: red;
+}
+
+.paragrafo {
+    font-size: 15px;
+    font-family: "Times New Roman", serif;
+    color: black;
+}
